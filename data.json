@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "name": "Alejandra",
+    "username": "Podóloga",
+    "phone": "11-6578-8989"
+  },
+  {
+    "id": 2,
+    "name": "Ana",
+    "username": "Consorcio Edificio",
+    "phone": "11-4545-6789"
+  },
+  {
+    "id": 3,
+    "name": "Leonardo",
+    "username": "Vecino piso 3B",
+    "phone": "11-4111-6789"
+  },
+  {
+    "id": 4,
+    "name": "Francisca",
+    "username": "Verdulería",
+    "phone": "4245-7890"
+  },
+  {
+    "id": 5,
+    "name": "El Faro",
+    "username": "Pizzería",
+    "phone": "4294-6639"
+  },
+  {
+    "id": 6,
+    "name": "Elsa",
+    "username": "Psicóloga",
+    "phone": "11-3334-8765"
+  },
+  {
+    "id": 7,
+    "name": "Dario",
+    "username": "Dietética Lomas Natural",
+    "email": "Karley_Dach@jasper.info",
+    "phone": "4245-7777"
+  },
+  {
+    "id": 8,
+    "name": "Victoria",
+    "username": "Qué Empanadas",
+    "phone": "11-2335-3119"
+  },
+  {
+    "id": 9,
+    "name": "Federico",
+    "username": "Vecino casa padres",
+    "phone": "11-3156-9021"
+  },
+  {
+    "id": 10,
+    "name": "Gervasa",
+    "username": "Salón de uñas",
+    "phone": "4241-5673"
+  }
+]

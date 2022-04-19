@@ -1,0 +1,125 @@
+/*--- SECCION INDEX ---*/
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+body {
+  background: #fefefe;
+  font-family: arial, helvetica, sans-serif;
+  font-size: 16px;
+}
+header {
+  text-align: center;
+  padding: 0;
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.wrap {
+  margin: auto;
+  max-width: 800px;
+  width: 80%;
+  text-align: center;
+}
+.logo {
+  padding: 10px;
+  margin: 1px;
+}
+.principal {
+  background: #fefefe;
+  border-top: 30px solid #185a2b;
+  color: #212121;
+  padding: 35px 35px;
+  width: 100%;
+}
+
+.principal .formulario {
+  color: #212121;
+  text-align: center;
+}
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+p.time {
+  font-size: 20px;
+  font-weight: 800;
+  text-align: center;
+  color: #f58a07;
+}
+.bot {
+  background: #185a2b;
+  border: 1px solid #212121;
+  color: #fff;
+  display: inline-block;
+  font-size: 15px;
+  padding: 5px;
+  margin: 5px;
+  cursor: pointer;
+}
+.tar {
+  height: 35px;
+  text-align: start;
+  border: #f58a07 solid 1px;
+  margin-top: 20px;
+  margin-bottom: 50px;
+  padding: 10px;
+}
+.cat {
+  height: 35px;
+  text-align: start;
+  border: #f58a07 solid 1px;
+  padding: 10px;
+  margin-bottom: 50px;
+}
+.prio {
+  height: 35px;
+  text-align: start;
+  border: #f58a07 solid 1px;
+  padding: 10px;
+  margin-bottom: 50px;
+}
+
+.btn-1 {
+  background: #185a2b;
+  border: 1px solid #212121;
+  color: #fff;
+  display: inline-block;
+  font-size: 14px;
+  padding: 5px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+.btn-1:hover {
+  border: 1px solid #212121;
+  opacity: 0.7;
+}
+
+.tarjeta {
+  display: inline-block;
+  text-align: center;
+  border: #f58a07 solid 3px;
+  border-radius: 10px;
+  margin: 10px;
+  padding: 23px;
+}
+footer {
+  padding: 20px;
+  margin-top: 25px;
+  text-align: center;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+/*--- SECCION CONTACTOS ---*/
+
+table thead {
+  background: #185a2b;
+  color: white;
+}
